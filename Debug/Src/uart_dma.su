@@ -1,0 +1,11 @@
+D:/STM32F4-BareMetal_Workspace/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/uart_dma.c:49:6:uart2_rxtx_init	8	static
+../Src/uart_dma.c:99:6:dma1_init	8	static
+../Src/uart_dma.c:107:6:dma1_stream5_uart_rx_config	8	static
+../Src/uart_dma.c:151:6:dma1_stream6_uart_tx_config	16	static
+../Src/uart_dma.c:189:6:dma1_stream5_uart_rx_start	4	static
+../Src/uart_dma.c:195:6:dma1_stream6_uart_tx_start	4	static
+../Src/uart_dma.c:201:17:compute_uart_bd	16	static
+../Src/uart_dma.c:207:13:uart_set_baudrate	16	static
+../Src/uart_dma.c:212:6:DMA1_Stream6_IRQHandler	4	static
+../Src/uart_dma.c:224:6:DMA1_Stream5_IRQHandler	4	static
